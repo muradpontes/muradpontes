@@ -4,7 +4,6 @@
 
 <img src="https://static.wixstatic.com/media/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg/v1/fill/w_568,h_228,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg" width="700"/>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=muradpontes&rank_icon=github&include_all_commits=true&custom_title=dados%20do%20git&border_radius=10&theme=graywhite&hide=contribs,issues&locale=pt-br" />
 </a>
@@ -14,8 +13,6 @@
 </a>
 
 <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=muradpontes&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF&hide=contributions%2Crank%2Cprs%2Cissues">
-
-
 
 ## portfolio
 [![portfoliio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://slushieguy.tech)
@@ -46,12 +43,11 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradsp20@gmail.com)
 [![lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/user/ohhhio/)
 
-### estou ouvindo nesse momento: ###
+## ouvindo ##
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&redirect=true)
 
+## jogando ##
 ![Steam stats](https://stats-cards-silk.vercel.app/api/steam)
-
-
 
 </div>
