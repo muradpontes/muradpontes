@@ -1,6 +1,6 @@
 <div align="center">
 
-### olá, me chamo murad!! ###
+## olá, me chamo murad!! ##
 
 <img src="https://static.wixstatic.com/media/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg/v1/fill/w_568,h_228,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg" width="700"/>
 
@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradpontes&custom_title=linguagens%20mais%20usadas&border_radius=10&theme=graywhite&layout=compact&langs_count=8&card_width=320&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradpontes&custom_title=linguagens%20mais%20utilizadas&border_radius=10&theme=graywhite&layout=compact&langs_count=8&card_width=320&locale=pt-br" />
 </a>
 
 <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=muradpontes&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF&hide=contributions%2Crank%2Cprs%2Cissues">
