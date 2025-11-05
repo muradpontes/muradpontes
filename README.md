@@ -48,7 +48,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&redirect=true)
 
 ## jogando ##
-![Steam stats2](https://github-readme-steam-card.vercel.app/status/?steamid=76561198158760237>&show_recent_game_bg=true)
+![Steam stats2](https://github-readme-steam-card.vercel.app/status/?steamid=76561198158760237>&show_in_game_bg=true&show_recent_game_bg=true)
 
 ![Steam stats](https://stats-cards-silk.vercel.app/api/steam)
 
