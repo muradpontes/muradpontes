@@ -1,13 +1,24 @@
-### olá, me chamo murad!! ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradpontes&layout=compact&theme=graywhite)](https://github.com/muradpontes/github-readme-stats) <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG94N3hkN2tvczkwb2hqM2Ixc3hicGRjejU5MWM1NXRncTFicTBwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iPtN71KJJRArX57yQ3/giphy.gif" width="200"/>
+<div align="center">
+
+### olá, me chamo murad!! ###
+
+<img src="https://static.wixstatic.com/media/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg/v1/fill/w_568,h_228,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4d0333_aa4fbdf21f314d0b8c59b5853162fddf~mv2.jpg" width="700"/>
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=muradpontes&rank_icon=github&include_all_commits=true&custom_title=dados%20do%20git&border_radius=10&theme=graywhite&hide=contribs,issues&locale=pt-br" />
+</a>
 
-![murad GitHub stats](https://github-readme-stats.vercel.app/api?username=muradpontes&show_icons=true&theme=graywhite&count_private=true&rank_icon=github)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradpontes&custom_title=linguagens%20mais%20usadas&border_radius=10&theme=graywhite&layout=compact&langs_count=8&card_width=320&locale=pt-br" />
+</a>
+
+<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=muradpontes&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23ffffffFF&hide=contributions%2Crank%2Cprs%2Cissues">
+
+
 
 ## portfolio
 [![portfoliio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://slushieguy.tech)
-
 
 ## stacks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,15 +41,17 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-
-
 ## onde me encontrar ##
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/muradpontes)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muradsp20@gmail.com)
 [![lastfm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://last.fm/user/ohhhio/)
 
-## 
+### estou ouvindo nesse momento: ###
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31befkk5ye5weqa3g3mhvr7npgne&redirect=true)
 
+![Steam stats](https://stats-cards-silk.vercel.app/api/steam)
 
+
+
+</div>
