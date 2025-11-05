@@ -50,8 +50,5 @@
 ## jogando ##
 ![Steam stats2](https://github-readme-steam-card.vercel.app/status/?steamid=76561198158760237>&show_in_game_bg=true&show_recent_game_bg=true)
 
-![Steam stats](https://stats-cards-silk.vercel.app/api/steam)
-
-
 
 </div>
